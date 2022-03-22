@@ -1,9 +1,8 @@
 # Curso Git y GitHub
 
 1. [¿Por qué usar un sistema de control de versiones como Git?](#1-¿por-qué-usar-un-sistema-de-control-de-versiones-como-gita-name"clase1"a)
-2. [¿Que es Git?](#2-¿que-es-git)
-
-3. [Instalando Git y Git Bash en windows](#3-instalando-git-y-git-bash-en-windows)
+2. [¿Que es Git?](#2-¿que-es-git-a-name--"clase2"a)
+3. [Instalando Git y Git Bash en windows](#3-instalando-git-y-git-bash-en-windowsa-name"clase3"a)
 4. [Instalar Git en Mac](#4-instalar-git-en-maca-name"clase4"a)
 5. [Instalar Git en Linux](#5-instalando-git-en-linuxa-name"clase5"a)
 6. [Editor de código, archivo binarios y de texto plano](#6-editor-de-código-archivo-binarios-y-de-texto-planoa-name"clase6"a)
@@ -31,7 +30,7 @@ Un repositorio es una base de datos donde se guardan los datos de cualquier arch
 
 -----------------------
 
-## 2. ¿Que es Git?<a name="clase2"></a>
+## 2. ¿Que es Git? <a name = "clase2"></a>
 Es un sistema de control de versiones muy popular creado por **Linus Torvalds**, el mismo creador de Linux.
 
 ### ¿Que es un sistema de control de versiones?
